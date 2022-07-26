@@ -1,5 +1,5 @@
-# (ProsperLoan Dataset)
-## by (Abbey Christian Banafo)
+# ProsperLoan Dataset
+## By (Abbey Christian Banafo)
 
 ## Preliminary Wrangling
 > *We gather our dataset using data provided on the Udacity platform*.
@@ -10,6 +10,7 @@ The project is divided into two Phases;
 > * *.***Phase 1***: *This Phase of the project mainly focuses on Exploring our dataset using Python datascience and analytics visualization tools. This includes pythons Pandas and Numpy Libraries, Seaborn and Matlplotlib. This phase further involved 3 main steps which was plotting univariate variables, bivarate and finally Multivariate variables. This, we refer to as the exploration phase of the project.*
 > * *.***Phase 2***: *The second phase is the explanatory phase where we communicate our findings to the audience with the help specific grahs from the exploration phase. To this end, We will create a slide deck that leverages polished, explanatory visualizations to communicate your results.*
 
+![ProperLoan](ProsperLoanImage.png)
 
 ## Dataset
 
