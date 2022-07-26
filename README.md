@@ -10,7 +10,7 @@ The project is divided into two Phases;
 > * *.***Phase 1***: *This Phase of the project mainly focuses on Exploring our dataset using Python datascience and analytics visualization tools. This includes pythons Pandas and Numpy Libraries, Seaborn and Matlplotlib. This phase further involved 3 main steps which was plotting univariate variables, bivarate and finally Multivariate variables. This, we refer to as the exploration phase of the project.*
 > * *.***Phase 2***: *The second phase is the explanatory phase where we communicate our findings to the audience with the help specific grahs from the exploration phase. To this end, We will create a slide deck that leverages polished, explanatory visualizations to communicate your results.*
 
-![ProperLoan](ProsperLoanImage.png)
+![ProperLoan](https://d94tn94v8mvlz.cloudfront.net/blog/wp-content/uploads/2018/02/Prosper.png)
 
 ## Dataset
 
@@ -36,3 +36,5 @@ The project is divided into two Phases;
 > * *BorrowerAPR values was dependant on borrowers monthly income and as well the amount of money lent out to these borrowers.*
 > * *ProsperScore values of borrowers seemed to be lower for borrowers with higher APR values.* 
 > * *Most borrowers had prosperscore between **4.0** and **8.0**.*
+
+![Analytics](https://salvetore.files.wordpress.com/2021/05/graph.png)
